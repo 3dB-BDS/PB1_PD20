@@ -14,7 +14,7 @@ This project is intended for learning CI automation.
 - **test_app.py** – Tests file `app.py`
 - **README.md** – This file
 - **Dockerfile** – Contains instructions to build Docker image
-- requirements.txt - Contains requirements for Docker image build
+- **requirements.txt** - Contains requirements for Docker image build
 
 ---
 
@@ -22,6 +22,8 @@ This project is intended for learning CI automation.
 1. Install Python 3.8+
 2. Copy files to project folder
 3. Import `app.py` to your project and use function `saskaitit(a, b)`
+
+
 
 ---
 
