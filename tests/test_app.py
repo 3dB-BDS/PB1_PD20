@@ -10,4 +10,4 @@ def test_saskaitit_negativi():
 
 
 def test_saskaitit_ar_nulli():
-    assert app.saskaitit(0, 7) == -7 # intentional error for testing
+    assert app.saskaitit(0, 7) == 7
