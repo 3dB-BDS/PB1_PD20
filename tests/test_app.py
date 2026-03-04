@@ -11,3 +11,15 @@ def test_saskaitit_negativi():
 
 def test_saskaitit_ar_nulli():
     assert app.saskaitit(0, 7) == 7
+
+
+def test_atnemt_pozitivi():
+    assert app.atnemt(7, 3) == 4
+
+
+def test_atnemt_negativi():
+    assert app.atnemt(-4, -6) == 2
+
+
+def test_atnemt_ar_nulli():
+    assert app.atnemt(0, 7) == -7

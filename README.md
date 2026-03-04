@@ -10,7 +10,7 @@ This project is intended for learning CI automation.
 
 ## Files
 - **.gitignore** – Config file specifying files Git should ignore
-- **app.py** – Main file, contains function `saskaitit` that summs two numbers together.
+- **app.py** – Main file, contains function `saskaitit` that do addition and function `atnemt` that subtracts.
 - **test_app.py** – Tests file `app.py`
 - **README.md** – This file
 - **Dockerfile** – Contains instructions to build Docker image
@@ -21,7 +21,7 @@ This project is intended for learning CI automation.
 ## How to Start
 1. Install Python 3.8+
 2. Copy files to project folder
-3. Import `app.py` to your project and use function `saskaitit(a, b)`
+3. Import `app.py` to your project and use function `saskaitit(a, b)` and `atnemt(a, b)`
 
 
 
