@@ -13,6 +13,8 @@ This project is intended for learning CI automation.
 - **app.py** – Main file, contains function `saskaitit` that summs two numbers together.
 - **test_app.py** – Tests file `app.py`
 - **README.md** – This file
+- **Dockerfile** – Contains instructions to build Docker image
+- requirements.txt - Contains requirements for Docker image build
 
 ---
 
